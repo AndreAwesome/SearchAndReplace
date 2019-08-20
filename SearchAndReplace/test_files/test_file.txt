@@ -1,0 +1,22 @@
+Sentence:
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+special characters:
+!"§$%&/()=?`´^°+*~'#<>|{[]}\-_.:,;
+
+regex test:
+Duis autem [vel] eum iriure [dolor] in hendrerit in vulputate velit esse molestie consequat
+
+regex html test:
+
+<html>
+<head></head>
+<body>
+	<h1>Hello World</h1>
+	<b>Bold Text</b>
+	<span>Price 9.99$</span>
+</body>
+</html>
